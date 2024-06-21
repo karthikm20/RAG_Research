@@ -9,11 +9,11 @@ As of now retrievals avalable to check out:
 2) Sparse retrieval: Cosine Similarity checks the matching words and retrieve the embeddings.
 3) Hybrid Approach: Sparse + dense.
 4) Any other
-5) 
+   
 ## Indexing to explore: 
-1)Naive indeing
-2)Hierarchial Indexing- kd-tree methods
-3)Knowledge Graphs
+1) Naive indeing
+2) Hierarchial Indexing- kd-tree methods
+3) Knowledge Graphs
 
 
 
